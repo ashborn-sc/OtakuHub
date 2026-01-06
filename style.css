@@ -1,0 +1,47 @@
+body {
+  background: #0f0f0f;
+  color: #fff;
+  font-family: Arial;
+  text-align: center;
+}
+
+input, textarea {
+  width: 80%;
+  padding: 10px;
+  margin: 8px;
+  background: #222;
+  color: #fff;
+  border: none;
+}
+
+button {
+  padding: 10px 20px;
+  margin: 6px;
+  background: #6a5acd;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+nav a {
+  margin: 10px;
+  color: #aaa;
+  text-decoration: none;
+}
+
+.container {
+  max-width: 600px;
+  margin: auto;
+}
+
+.post {
+  background: #1b1b1b;
+  padding: 10px;
+  margin: 10px 0;
+}
+
+.reply {
+  font-size: 0.9em;
+  margin-left: 10px;
+  color: #ccc;
+}
